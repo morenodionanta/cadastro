@@ -1,4 +1,4 @@
-package com.jocile.cadastro.entidades;
+package cadastro2;
 
 public class Professor {
     private String nome;

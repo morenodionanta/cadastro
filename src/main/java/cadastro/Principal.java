@@ -1,8 +1,8 @@
-package com.jocile.cadastro;
+package cadastro;
 
-import com.jocile.cadastro.entidades.Aluno;
-import com.jocile.cadastro.entidades.Disciplina;
-import com.jocile.cadastro.visao.FrCadAluno;
+import cadastro2.Aluno;
+import cadastro2.Disciplina;
+import visao.FrCadAluno;
 import java.util.ArrayList;
 import java.util.List;
 

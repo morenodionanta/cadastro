@@ -1,4 +1,4 @@
-package com.jocile.cadastro.entidades;
+package cadastro2;
 
 import java.util.ArrayList;
 import java.util.List;
